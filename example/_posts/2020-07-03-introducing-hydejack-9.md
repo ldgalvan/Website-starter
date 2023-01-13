@@ -2,7 +2,7 @@
 layout: post
 title: Introducing Hydejack 9
 image:
-  path: /assets/img/blog/flocking_256_slides_3.gif
+  path: /assets/img/blog/nfl_avg_plts.png
 description: >
   Version 9 is the most complete version of Hydejack yet.
   Modernized design, big headlines, and big new features.
