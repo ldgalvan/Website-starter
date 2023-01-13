@@ -30,7 +30,7 @@ keywords:
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/blog/nfl_avg_plts.png
+logo:                  /assets/img/blog/ppic-min.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author: Luke Diego Galvan
