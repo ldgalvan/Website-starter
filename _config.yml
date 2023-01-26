@@ -42,7 +42,7 @@ email:               <mail@domain.tld>
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
+  - title:             Projects
     url:               /example/
   - title:             Documentation
     url:               /docs/
