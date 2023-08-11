@@ -41,11 +41,11 @@ email:               <mail@domain.tld>
 
 # Add links to the sidebar.
 menu:
-  - title:             Projects
+  - title:             Data Projects
     url:               /example/
-  - title:             Documentation
+  - title:             Resume
     url:               /docs/
-  - title:             About
+  - title:             About Me
     url:               /about/
 
 # Add links to the footer.
